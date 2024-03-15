@@ -1,7 +1,8 @@
 import os
 import glob
-from auchan_file_process.settings import Settings
 from typing import List
+from auchan_file_process.settings import Settings
+
 
 setting = Settings()
 
